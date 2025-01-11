@@ -1,0 +1,6 @@
+1. python(v 3.8)
+2. cmake and dlib (https://www.youtube.com/watch?v=sS010y23neU)
+3. dev c++
+
+
+https://chatgpt.com/share/6782068b-e018-8006-9f89-10d7299c0696
