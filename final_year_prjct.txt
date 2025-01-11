@@ -1,6 +1,24 @@
+Requirement:
 1. python(v 3.8)
-2. cmake and dlib (https://www.youtube.com/watch?v=sS010y23neU)
-3. dev c++
+
+Steps to run:
+Set up virtual environment : 
+                           1. python -m venv venv
+                           2. .\venv\Scripts\Activate
+
+Now run the main.py file
+Many Modules will not be found, install one at a time using chatgpt or the below chat link:
+https://chatgpt.com/share/6782068b-e018-8006-9f89-10d7299c0696,
+
+During installation of modules this will be hard dlib. So follow YT link:-
+cmake and dlib (https://www.youtube.com/watch?v=sS010y23neU)
+
+The dlib file for Python 3.8 is located in final-year-prjct-phase 2\Smart-Attendance-and-Engagement-Detection-System-main\Code\dlib-19.22.99-cp38-cp38-win_amd64.whl
+when installing make sure to use pip dlib-19.22.99-cp38-cp38-win_amd64.whl
+main is .whl
+
+After all modules are insatlled run the main.py
+
+Use 'q' in the camera or frame to quit it.
 
 
-https://chatgpt.com/share/6782068b-e018-8006-9f89-10d7299c0696
